@@ -42,7 +42,7 @@ convert_bin <- function(in_file, out_file) {
   NULL
 }
 
-# Run comparison
+# Run conversion
 bin_file <- "path/to/bin/file.bin"
 rds_file <- "path/to/output/file.Rds"
 convert_bin(in_file = bin_file, out_file = rds_file)
